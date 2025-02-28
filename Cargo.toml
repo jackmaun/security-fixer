@@ -1,0 +1,13 @@
+[package]
+name = "security-fixer"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+reqwest = { version = "0.11.27", features = ["json", "blocking"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+dotenv = "0.15"
+regex = "1.7"
+diff = "0.1.13"
+native-tls = "0.2"  

@@ -1,4 +1,4 @@
-### 2025 CSU DevNet Hackathon
+# 2025 CSU DevNet Hackathon
 ---
 ## Team
 - Jack Maunsell

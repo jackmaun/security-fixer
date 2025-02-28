@@ -1,2 +1,3 @@
 /target
+/src/security_hotspots_output.json
 .env
